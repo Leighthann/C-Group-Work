@@ -15,6 +15,14 @@
         "version": 590,
         "index": 1280
       }
+    ],
+    "src/Headers/Staff.h": [
+      {
+        "id": "7752e2e9-cf11-4325-af9f-e90d5d6d90f7",
+        "line": 6,
+        "version": 3109,
+        "index": 76
+      }
     ]
   }
 }

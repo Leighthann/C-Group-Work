@@ -71,7 +71,7 @@ public:
     cout << "What are the maximum number of course: ";
     cin >> maximumNumberOfCourses;
     printf("%d", maximumNumberOfCourses) cout
-        << "What are the availiable Awards for this course: ";
+    << "What are the availiable Awards for this course: ";
     cin >> Award;
     cout << "What are available accredidations: ";
     cin >> Accreditations;
