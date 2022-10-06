@@ -7,6 +7,14 @@
         "version": 0,
         "index": 0
       }
+    ],
+    "src/Headers/Course.h": [
+      {
+        "id": "9a02db8d-3ebd-475b-a28a-3472a856a710",
+        "line": 84,
+        "version": 590,
+        "index": 1280
+      }
     ]
   }
 }
